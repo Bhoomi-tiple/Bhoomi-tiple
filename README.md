@@ -6,16 +6,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Computer Engineering student at **MIT Academy of Engineering, Pune**
+🎓 B.Tech Computer, Software Engineering student at **MIT Academy of Engineering, Pune**
 
-💻 Interested in **Software Development, DSA and Artificial Intelligence**
+💻 Interested in **DSA, Artificial Intelligence and FullStack Development**
 
-🧠 Currently learning **C++, Python, Web Development and AI**
+🧠 Currently learning **C++, Python, FullStack and AI**
 
-🚀 I enjoy solving problems, building projects and learning new technologies.
-
-🎯 My goal is to become a skilled and reliable **Software Developer**.
-
+🚀 I enjoy Mathematics, solving questions in DSA specially with C++, building projects, Backend Development and playing chess, sudoku.
 ---
 
 ## 🛠️ Tech Stack
