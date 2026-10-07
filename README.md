@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhoomi Tiple
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;DSA+%7C+Problem+Solving+Enthusiast;Learning+AI+%26+Web+Development;Building+Projects+%26+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;DSA+%7C+Problem+Solving+Enthusiast;Learning+AI+%26+FullStack+Development;Building+Projects+%26+Learning+Every+Day" />
 
 ---
 
